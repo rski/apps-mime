@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=clementine -l
+Exec=clementine -l %f
+Categories=Other;
+NoDisplay=true
+MimeType=inode/directory

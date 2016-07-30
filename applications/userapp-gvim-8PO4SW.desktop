@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=gvim
+Exec=gvim %f
+Categories=Other;
+NoDisplay=true
+MimeType=application/octet-stream

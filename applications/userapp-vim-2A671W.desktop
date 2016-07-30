@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=vim
+Exec=vim %f
+Categories=Other;
+NoDisplay=true
+MimeType=application/x-trash
+Terminal=true

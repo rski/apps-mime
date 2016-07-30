@@ -1,0 +1,29 @@
+[Added Associations]
+audio/flac=kde4-kwave.desktop;kde4-soundkonverter.desktop;
+audio/mpeg=clementine.desktop;
+image/jpeg=eog.desktop;
+image/png=eog.desktop;
+video/mp4=avidemux-qt.desktop;
+text/x-makefile=userapp-nvim-F65X0X.desktop;
+text/plain=libreoffice-writer.desktop;org.gnome.gedit.desktop;gvim.desktop;
+application/x-cbr=mcomix.desktop;
+application/zip=engrampa.desktop;
+application/x-rar=engrampa.desktop;
+application/x-dvi=chromium.desktop;calibre-gui.desktop;
+video/x-ms-wmv=smplayer.desktop;
+application/epub+zip=calibre-gui.desktop;
+
+[Default Applications]
+audio/mpeg=clementine.desktop
+image/jpeg=eog.desktop
+image/png=eog.desktop
+application/pdf=emacs.desktop
+text/x-makefile=emacs.desktop
+text/plain=gvim.desktop
+application/x-cbr=mcomix.desktop
+application/zip=engrampa.desktop
+application/x-rar=engrampa.desktop
+video/x-ms-wmv=smplayer.desktop
+
+[Removed Associations]
+text/x-go=wine-extension-txt.desktop;
